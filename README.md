@@ -30,7 +30,6 @@ The framework integrates:
 This repository will include:
 
 - training and inference code
-- pretrained checkpoints
 - data preparation scripts
 - evaluation scripts
 - distillation training scripts
