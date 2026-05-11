@@ -1,6 +1,6 @@
 # TL-DETR
 
-**TL-DETR: High-Performance Tunnel Leakage Detection via Magnitude-Rectified Linear Attention and Structured Distribution Alignment Distillation**.
+**TL-DETR: High-Performance Tunnel Leakage Detection via Magnitude-Rectified Linear Attention and Structured Distribution Alignment Distillation**
 
 ## Status
 
